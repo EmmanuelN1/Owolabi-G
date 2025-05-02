@@ -3530,6 +3530,7 @@ input[type="button"].btn-block {
     flex-flow: row nowrap;
     -webkit-box-pack: start;
     -ms-flex-pack: start;
+    color: white !important;
     justify-content: flex-start; }
     .navbar-expand-sm .navbar-nav {
       -webkit-box-orient: horizontal;
@@ -3552,6 +3553,7 @@ input[type="button"].btn-block {
       -ms-flex-preferred-size: auto;
       flex-basis: auto; }
     .navbar-expand-sm .navbar-toggler {
+      
       display: none; } }
 
 @media (max-width: 767.98px) {
